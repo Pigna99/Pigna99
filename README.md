@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Videogames, Sports and naturally Programming!
 
-- 🌱 I’m currently learning Computer Science at UniTN (Italy - Trento). Actually I'm focused learning React and Node.js. My dream is to become a Font-End Developer!
+- 🌱 I’m currently learning Computer Science at UniTN (Italy - Trento). Actually I'm focused learning React and Node.js. My dream is to become a Front-End Developer!
 
 - 💞️ I’m looking to collaborate on Web Applications Projects. If you are looking for someone to hire for cool projects, call me!
 
